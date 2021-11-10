@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.exe
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.deps.json
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.runtimeconfig.json
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.dll
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\bin\Debug\netcoreapp3.1\FileIOoperations.pdb
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.AssemblyInfo.cs
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.dll
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.pdb
+C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\obj\Debug\netcoreapp3.1\FileIOoperations.genruntimeconfig.cache
