@@ -39,6 +39,26 @@ namespace FileIOoperations.FileIO
             }
 
         }
-
+        public void ReadAllText()
+        {
+            try
+            {
+                string path = @"C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\Sample.txt";
+                string text;
+                text = File.ReadAllText(path);
+                if (text.Length != 0)
+                {
+                    Console.WriteLine("edit the file:" +"\n"+ text);
+                }
+                else
+                {
+                    Console.WriteLine("does not edit  the file");
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
     }
 }
