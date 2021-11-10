@@ -10,7 +10,7 @@ namespace FileIOoperations.FileIO
             string Path = @"C:\Users\Dell\Desktop\AmeejaFolder\FileIOoperations\FileIOoperations\Sample.txt";
             FileReadWriteOperation file = new FileReadWriteOperation();
             file.FileExist(Path);
-            Console.WriteLine("");
+            file.ReadAllLine();
           }
     }
 }
